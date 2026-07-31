@@ -9,4 +9,6 @@ Features:
 -Clicking on player or team names sends you to their Wikipedia page.
 -CSS styling.
 
+The images should be in the same folder as HTML and CSS files.
+
 (The website is in Polish)
